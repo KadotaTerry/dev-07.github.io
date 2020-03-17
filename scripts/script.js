@@ -1,4 +1,4 @@
-var greeting = "[null]";
+var greeting = "";
 var name = "[null]";
 var message = "[null]";
 var welcome = greeting + name + message;
